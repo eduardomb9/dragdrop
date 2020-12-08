@@ -1,4 +1,6 @@
-# dragdrop
+# DragDropVue
+
+Component created to manage object dependencies using two lists with dragdrop.
 
 ## Project setup
 ```
